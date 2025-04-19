@@ -9,9 +9,9 @@ Movizy is an Android application that displays a list of trending movies and pro
 
 - **Landscape**
 <img src="https://github.com/at-imene/Movizy/assets/78742254/a2bc3452-edb8-453d-a09a-f7341e9a27cc" alt="Splash screen" width="500"/>
-<img src="https://github.com/at-imene/Movizy/assets/78742254/b8266c14-0a47-4b6c-92be-572b1047d9d9" alt="Splash screen" height="300"/>
-<img src="https://github.com/at-imene/Movizy/assets/78742254/da89e719-28d6-47a6-a116-a93120c2b446" alt="Splash screen" height="300"/>
-<img src="https://github.com/at-imene/Movizy/assets/78742254/6ced42a9-2e45-410b-8f11-ca151e1fc82d" alt="Splash screen" height="300"/>
+<img src="https://github.com/at-imene/Movizy/assets/78742254/b8266c14-0a47-4b6c-92be-572b1047d9d9" alt="Splash screen" width="500"/>
+<img src="https://github.com/at-imene/Movizy/assets/78742254/da89e719-28d6-47a6-a116-a93120c2b446" alt="Splash screen" width="500"/>
+<img src="https://github.com/at-imene/Movizy/assets/78742254/6ced42a9-2e45-410b-8f11-ca151e1fc82d" alt="Splash screen" width="500"/>
 
 
 ## Features
